@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0607-Organizacao-de-Computadores-Digitais-I">
-    <img src=".github/readme/hero.svg?v=2026-01-06T14:34:42.962647Z" width="100%" alt="Access the course website" />
+  <a href="https://Academic-Codex.github.io/SCE0607-Organizacao-de-Computadores-Digitais-I">
+    <img src=".github/readme/hero.svg?v=2026-01-06T15:38:39.581788Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
